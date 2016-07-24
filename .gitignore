@@ -1,0 +1,33 @@
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.DS_Store
+*.suo
+*.user
+nupkgs/*
+.vs
+packages/
+tmp/*
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+*.obj
+*.pch
+*.pdb
+*.log
+.builds
+
+# ReSharper is a .NET coding add-in
+_ReSharper*
+
+# Others
+TestResults
+[Tt]est[Rr]esult*
+*.Cache
+*.cache
+
+#logs
+logs
