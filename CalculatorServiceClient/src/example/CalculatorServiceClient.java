@@ -8,7 +8,7 @@ import mypackage.ICalculatorService;
 /**
  * Created by Administrator on 7/23/2016.
  */
-public class HelloWorldClient {
+public class CalculatorServiceClient {
   public static void main(String[] argv) {
       try {
           CalculatorServiceLocator locator = new CalculatorServiceLocator();
